@@ -1,4 +1,4 @@
-// i hope, it's absolutely accurate, though i can't ensure correctness. You can check the picture for absolutely his code
+// i hope, it's absolutely accurate, though i can't ensure correctness. You can check the picture for zak_jakson's code
 // problem name : https://vjudge.net/problem/DMOJ-fibonacci2
 // author : https://vjudge.net/user/zak_jakson
 // solution link : https://vjudge.net/solution/50490951
