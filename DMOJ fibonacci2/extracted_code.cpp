@@ -26,7 +26,7 @@ using namespace std;
 int dx[] = {0, 1, 0, -1, 1, 1, -1, -1};
 int dy[] = {1, 0, 01, 0, 1, -1, 1, -1};
 int N = 1e6 + 10, M = 2, mod = 1e9 + 7, K = 22;
-const double EPS = 1e-3, PI = acos(-1.0)
+const double EPS = 1e-3, PI = acos(-1.0);
 
 void init();
 
@@ -184,7 +184,7 @@ namespace fibonacci {
         swap(v, temp);
     }
 
-    MAtrix _fib(ll x, ll mod) {
+    Matrix _fib(ll x, ll mod) {
         Matrix trans(2, 2), base(2, 1);
         trans.v = {{1, 1}, {1, 0}};
         base.v = {{1}, {0}};
